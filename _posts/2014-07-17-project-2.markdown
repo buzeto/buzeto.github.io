@@ -1,15 +1,24 @@
 ---
-title: Escape
-subtitle: Website Design
+title: DCL
+subtitle: Developer Coding License
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+--date: 2014-07-17
+img: DCL.jpg
+thumbnail: DCL-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+--project-date: April 2014
+--client: Start Bootstrap
+--category: Web Development
+description: Você sabe codificar, mas você se considera pronto para ser responsável por um software? Você consegue levar da idéia a produção passando por caminhos que você desconhece? O objetivo deste curso é complementar seus conhecimentos com uma base sólida e prática de engenharia de software e código saudável. Entender como planejar e executar o desenvolvimento de uma solução de software. Por fim, como colocar no ar e manter sua operação.
+hours: 40 horas presenciais + 60 horas de prática tutorada
+topics: [
+	"Base sólida de Engenharia de Software e código saudável. Principais patterns do mercado, SOLID, Testes dentre outros.", 
+	"Capacidade de entender o problema e suas partes.", 
+	"Capacidade de planejar uma solução de software.",
+	"Capacidade de transformar concretizar ideias",
+	"Acesso a oportunidades em ótimas empresas e Startups",
+	"Um portifólio aplicável de soluções de software construídas"
+]
 
 ---

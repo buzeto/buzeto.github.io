@@ -1,15 +1,22 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: OEDEPuSS
+subtitle: Oficina de Engenharia para Desenvolvimento [na Prática] de Software Saudável
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+--date: 2014-07-18
+img: oedepus.jpg
+thumbnail: oedepus-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+--project-date: April 2014
+--client: Start Bootstrap
+--category: Web Development
+description: Esta oficina tem o objetivo de conscientizar e capacitar equipes de desenvolvedores de como implementar construir sistemas de software mais sustentáveis de melhor qualidade. Trazendo discussões, exposições, experiências e práticas em cima de conceitos de Engenharia de Software, Código Saudável, Arquitetura de Sistemas e Práticas Complementares.
+hours: 8 horas
+topics: [
+	"Engenharia de Software: Revisão dos Princípios de Programação Orientada a Objetos, Princípios de construção de sistemas orientados a objetos com foco no Sistema (ASS), Pacotes (RCC) e Classes (SOLID).",
+	"Código Saudável: Más práticas de código (Code Smells) e boas práticas de código (Clean Code). Inclui uso de padrões, nomenclaturas, comentários, tratamento de erros, construção de classes e métodos, condições limítrofes e testabilidade. Testes (Qualidade): Discussão da importância e do papel dos desenvolvedores. Ver os três principais tipos de testes Unidade, Integração e Carga e o Processo de Integração Contínua.",
+	"Arquitetura de Sistemas: Discussão sobre a arquitetura do sistema com um todo. Ambientes de desenvolvimento (construção, homologação e produção). Distinção entre Camadas, MVC e como sua influência no desenvolvimento web. Design Emergente e Entropia de Software e as práticas para que sejam tomadas decisões menores, mais baratas e seguras durante o desenvolvimento.",
+	"Práticas Complementares: Discussão sobre práticas que acrescentam a experiência de desenvolvimento. Aquisição de competências, programação em par, divisão de tempo, Comunicação na Equipe, TDD, Comunidades de Prática."
+]
 
 ---
